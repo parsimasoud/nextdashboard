@@ -1,4 +1,4 @@
 export default function Page(){
-    return <p>Invoices page masoud</p>
+    return <p>Invoices page</p>
     
 }
